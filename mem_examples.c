@@ -45,9 +45,9 @@ int main()
     return 0;
 }
 
-
- # Size of NR_UE_info_t 32792, UE_sched 128 (= sizeof(UEsched_t) 16 x MAX_NUM_UES 8), *UE_sched 16
- # size of each element is 16 bytes, number of UE_sched elements is 8 
- # 
- # ...Program finished with exit code 0
- # Press ENTER to exit console.
+// Output: 
+// Size of NR_UE_info_t 32792, UE_sched 128 (= sizeof(UEsched_t) 16 x MAX_NUM_UES 8), *UE_sched 16
+// size of each element is 16 bytes, number of UE_sched elements is 8 
+// 
+// ...Program finished with exit code 0
+// Press ENTER to exit console.
